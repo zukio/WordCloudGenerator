@@ -196,10 +196,6 @@ python main.py -i your_text.txt
 .\build.bat
 ```
 
-## 📄 ライセンス
-
-MIT License
-
 ## 🙏 使用ライブラリ
 
 - [wordcloud](https://github.com/amueller/word_cloud) - ワードクラウド生成
@@ -207,6 +203,3 @@ MIT License
 - [matplotlib](https://matplotlib.org/) - 描画
 - [Pillow](https://python-pillow.org/) - 画像処理
 
----
-
-**Enjoy creating beautiful word clouds! 🎨✨**
