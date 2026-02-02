@@ -1,0 +1,9 @@
+pandas
+numpy
+mecab-python3
+ipadic
+requests
+beautifulsoup4
+wordcloud
+matplotlib
+Pillow
